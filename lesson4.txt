@@ -9,3 +9,4 @@ while number != 0:
     number //= 10
     print('Текущая сумма цифр числа:', sum_num)
 print('\nИтоговая сумма цифр числа:', sum_num)
+print('I love')
